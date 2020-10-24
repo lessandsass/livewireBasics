@@ -6,9 +6,9 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">{{ __('Dashboard') }}</div>
-
+                    
                 <div class="card-body">
-                    <livewire:hello>
+                    <livewire:post-index>
                 </div>
             </div>
         </div>
